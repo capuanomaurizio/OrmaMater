@@ -1,0 +1,94 @@
+<resources>
+    <!-- Navigazione -->
+    <string name="route_home">Le mie escursioni</string>
+    <string name="route_detail">Dettaglio</string>
+    <string name="route_record">Registra</string>
+    <string name="route_profile">Profilo</string>
+    <string name="route_settings">Impostazioni</string>
+    <string name="route_stats">Statistiche</string>
+    <string name="back_button_description">Torna indietro</string>
+
+    <!-- Home -->
+    <string name="search">Cerca</string>
+    <string name="filter_favorites">Mostra solo i preferiti</string>
+    <string name="home_empty">Nessuna escursione. Tocca + per registrarne una.</string>
+    <string name="home_no_favorites">Nessun preferito. Tocca il cuore su un\'escursione per aggiungerla qui.</string>
+    <string name="home_no_results">Nessuna escursione corrisponde a «%1$s».</string>
+    <string name="hike_photo">Foto dell\'escursione</string>
+
+    <!-- Registrazione escursione -->
+    <string name="record_start">Avvia</string>
+    <string name="record_pause">Pausa</string>
+    <string name="record_resume">Riprendi</string>
+    <string name="record_finish">Termina</string>
+    <string name="record_discard">Scarta</string>
+    <string name="record_save">Salva</string>
+    <string name="record_title_label">Nome dell\'escursione</string>
+    <string name="record_description_label">Note</string>
+    <string name="record_waiting">In attesa del segnale GPS…</string>
+    <string name="record_untitled">Escursione senza nome</string>
+    <string name="metric_distance">Distanza</string>
+    <string name="metric_duration">Durata</string>
+    <string name="metric_elevation">Dislivello</string>
+    <string name="map_start">Partenza</string>
+    <string name="map_end">Arrivo</string>
+    <string name="error_location_disabled">GPS disattivato</string>
+    <string name="error_permission_denied">Permesso di posizione non concesso</string>
+    <string name="permission_denied_title">Serve la posizione</string>
+    <string name="permission_denied_message">Senza accesso alla posizione non è possibile tracciare il percorso dell\'escursione.</string>
+    <string name="permission_settings">Apri impostazioni</string>
+    <string name="dismiss">Annulla</string>
+
+    <!-- Dettaglio -->
+    <string name="favorite">Preferito</string>
+    <string name="edit">Modifica</string>
+    <string name="edit_hike">Modifica escursione</string>
+    <string name="delete">Elimina</string>
+    <string name="detail_not_found">Escursione non trovata</string>
+    <string name="detail_no_track">Nessun tracciato registrato per questa escursione.</string>
+    <string name="photo_take">Scatta una foto</string>
+    <string name="photo_retake">Sostituisci</string>
+    <string name="photo_save_gallery">Scarica foto</string>
+    <string name="photo_saved">Foto salvata in galleria</string>
+    <string name="photo_save_failed">Salvataggio non riuscito</string>
+    <string name="share">Condividi</string>
+    <string name="share_chooser">Condividi escursione</string>
+    <string name="share_elevation">%1$s di dislivello</string>
+    <string name="open_in_maps">Apri nelle mappe</string>
+    <string name="no_maps_app">Nessuna app di mappe installata</string>
+
+    <!-- Profilo -->
+    <string name="profile_username">Nome</string>
+    <string name="profile_pick_avatar">Scegli una foto</string>
+    <string name="profile_stats">Le tue statistiche</string>
+    <string name="profile_hike_count">Escursioni</string>
+    <string name="profile_total_distance">Distanza totale</string>
+    <string name="profile_total_elevation">Dislivello totale</string>
+    <string name="profile_longest">Escursione più lunga</string>
+
+    <!-- Statistiche e traguardi -->
+    <string name="stats_monthly">Chilometri per mese</string>
+    <string name="stats_badges">Traguardi</string>
+    <string name="stats_elevation_profile">Profilo altimetrico</string>
+    <string name="chart_max_altitude">max %1$.0f m</string>
+    <string name="chart_min_altitude">min %1$.0f m</string>
+    <string name="badge_unlocked_on">Sbloccato il %1$s</string>
+    <string name="badge_first_hike">Primi passi</string>
+    <string name="badge_first_hike_desc">Registra la tua prima escursione</string>
+    <string name="badge_five_hikes">Cinque uscite</string>
+    <string name="badge_five_hikes_desc">Registra 5 escursioni</string>
+    <string name="badge_ten_hikes">Habitué</string>
+    <string name="badge_ten_hikes_desc">Registra 10 escursioni</string>
+    <string name="badge_ten_km">Dieci chilometri</string>
+    <string name="badge_ten_km_desc">Percorri 10 km in totale</string>
+    <string name="badge_fifty_km">Cinquanta chilometri</string>
+    <string name="badge_fifty_km_desc">Percorri 50 km in totale</string>
+    <string name="badge_thousand_meters">Mille metri</string>
+    <string name="badge_thousand_meters_desc">Accumula 1000 m di dislivello</string>
+
+    <!-- Impostazioni -->
+    <string name="settings_theme">Tema</string>
+    <string name="theme_light">Chiaro</string>
+    <string name="theme_dark">Scuro</string>
+    <string name="theme_system">Automatico</string>
+</resources>

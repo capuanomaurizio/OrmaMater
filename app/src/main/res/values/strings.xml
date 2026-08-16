@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name" translatable="false">Orma Mater</string>
+
+    <!-- Navigation -->
+    <string name="route_home">My hikes</string>
+    <string name="route_detail">Hike details</string>
+    <string name="route_record">Record</string>
+    <string name="route_profile">Profile</string>
+    <string name="route_settings">Settings</string>
+    <string name="route_stats">Statistics</string>
+    <string name="back_button_description">Go back</string>
+
+    <!-- Home -->
+    <string name="search">Search</string>
+    <string name="filter_favorites">Show favorites only</string>
+    <string name="home_empty">No hikes yet. Tap + to record one.</string>
+    <string name="home_no_favorites">No favourite hikes yet. Tap the heart on a hike to add it here.</string>
+    <string name="home_no_results">No hikes match “%1$s”.</string>
+    <string name="hike_photo">Hike photo</string>
+
+    <!-- Recording -->
+    <string name="record_start">Start</string>
+    <string name="record_pause">Pause</string>
+    <string name="record_resume">Resume</string>
+    <string name="record_finish">Finish</string>
+    <string name="record_discard">Discard</string>
+    <string name="record_save">Save</string>
+    <string name="record_title_label">Hike name</string>
+    <string name="record_description_label">Notes</string>
+    <string name="record_waiting">Waiting for GPS signal…</string>
+    <string name="record_untitled">Untitled hike</string>
+    <string name="metric_distance">Distance</string>
+    <string name="metric_duration">Duration</string>
+    <string name="metric_elevation">Elevation gain</string>
+    <string name="map_start">Start</string>
+    <string name="map_end">Finish</string>
+    <string name="error_location_disabled">Location is turned off</string>
+    <string name="error_permission_denied">Location permission not granted</string>
+    <string name="permission_denied_title">Location needed</string>
+    <string name="permission_denied_message">Without access to your location the app cannot track the route of your hike.</string>
+    <string name="permission_settings">Open settings</string>
+    <string name="dismiss">Cancel</string>
+
+    <!-- Details -->
+    <string name="favorite">Favorite</string>
+    <string name="edit">Edit</string>
+    <string name="edit_hike">Edit hike</string>
+    <string name="delete">Delete</string>
+    <string name="detail_not_found">Hike not found</string>
+    <string name="detail_no_track">No route recorded for this hike.</string>
+    <string name="photo_take">Take a photo</string>
+    <string name="photo_retake">Replace</string>
+    <string name="photo_save_gallery">Download pic</string>
+    <string name="photo_saved">Photo saved to gallery</string>
+    <string name="photo_save_failed">Could not save the photo</string>
+    <string name="share">Share</string>
+    <string name="share_chooser">Share hike</string>
+    <string name="share_elevation">%1$s of elevation gain</string>
+    <string name="open_in_maps">Open in maps</string>
+    <string name="no_maps_app">No maps app installed</string>
+
+    <!-- Profile -->
+    <string name="profile_username">Name</string>
+    <string name="profile_pick_avatar">Choose a photo</string>
+    <string name="profile_stats">Your statistics</string>
+    <string name="profile_hike_count">Hikes</string>
+    <string name="profile_total_distance">Total distance</string>
+    <string name="profile_total_elevation">Total elevation gain</string>
+    <string name="profile_longest">Longest hike</string>
+
+    <!-- Statistics and badges -->
+    <string name="stats_monthly">Kilometres per month</string>
+    <string name="stats_badges">Badges</string>
+    <string name="stats_elevation_profile">Elevation profile</string>
+    <string name="chart_max_altitude">max %1$.0f m</string>
+    <string name="chart_min_altitude">min %1$.0f m</string>
+    <string name="badge_unlocked_on">Unlocked on %1$s</string>
+    <string name="badge_first_hike">First steps</string>
+    <string name="badge_first_hike_desc">Record your first hike</string>
+    <string name="badge_five_hikes">Five outings</string>
+    <string name="badge_five_hikes_desc">Record 5 hikes</string>
+    <string name="badge_ten_hikes">Regular</string>
+    <string name="badge_ten_hikes_desc">Record 10 hikes</string>
+    <string name="badge_ten_km">Ten kilometres</string>
+    <string name="badge_ten_km_desc">Cover 10 km in total</string>
+    <string name="badge_fifty_km">Fifty kilometres</string>
+    <string name="badge_fifty_km_desc">Cover 50 km in total</string>
+    <string name="badge_thousand_meters">One thousand metres</string>
+    <string name="badge_thousand_meters_desc">Climb 1000 m in total</string>
+
+    <!-- Settings -->
+    <string name="settings_theme">Theme</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="theme_system">Automatic</string>
+</resources>
